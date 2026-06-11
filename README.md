@@ -1,6 +1,6 @@
 # Hi, I'm Pras 👋
 
-📍 **Palm Harbor, FL** · 🛠️ **Startup CTO** · 🤖 **Practical agent systems**
+📍 **Tampa, FL** · 🛠️ **Startup CTO** · 🤖 **Practical agent systems**
 
 I'm Co-Founder/CTO at [JobLeap AI](https://jobleap.ai). I build AI systems that survive contact with real work: agents, evals, workflow automation, memory, supervision, verification, handoffs, and release boundaries.
 
