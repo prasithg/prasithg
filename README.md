@@ -8,10 +8,11 @@ My bias: small tools, real workflows, fewer demos, more systems that compound.
 
 ## Start here
 
+- [parker](https://github.com/prasithg/parker) — living public at-home assistant prototype for effortful speech, safe follow-through, family coordination, and eval-backed usefulness.
+- [cross-agent-eval-framework](https://github.com/prasithg/cross-agent-eval-framework) — strict scorecards for agent work sessions with negative controls and remote/live evidence checks.
 - [claude-desktop-supervisor](https://github.com/prasithg/claude-desktop-supervisor) — supervision pattern for long-running Claude Desktop, Claude Code, and Fable-style coding sessions.
 - [clawrari](https://github.com/prasithg/clawrari) — opinionated OpenClaw setup with structured memory and agent-ops loops.
 - [clawrari-context](https://github.com/prasithg/clawrari-context) — product/build context behind Clawrari.
-- [vibecraft](https://github.com/prasithg/vibecraft) — discovery surface for AI-built apps.
 
 ## What I'm working on
 
@@ -27,6 +28,14 @@ My bias: small tools, real workflows, fewer demos, more systems that compound.
 agents    evals    memory    verification    handoffs    macOS automation
 founder ops    workflow tools    practical AI systems    assistive AI
 ```
+
+## Current focus
+
+### Parker
+
+Parker is the assistive-AI project I am pushing hardest right now: a family-aware at-home assistant for effortful speech, routines, safe follow-through, and caregiver coordination. The public repo tracks the working prototype, safety boundaries, and synthetic/local eval evidence.
+
+Repo: [prasithg/parker](https://github.com/prasithg/parker)
 
 ## Recent project
 
