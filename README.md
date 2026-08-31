@@ -9,10 +9,11 @@ My bias: small tools, real workflows, fewer demos, more systems that compound.
 ## Start here
 
 - [parker](https://github.com/prasithg/parker) — living public at-home assistant prototype for effortful speech, safe follow-through, family coordination, and eval-backed usefulness.
+- [clawrari](https://github.com/prasithg/clawrari) — opinionated OpenClaw setup with structured memory and agent-ops loops.
+- [trace-to-tripwire](https://github.com/prasithg/trace-to-tripwire) — metadata-only agent trajectory receipts and fail-closed tripwires.
 - [cross-agent-eval-framework](https://github.com/prasithg/cross-agent-eval-framework) — strict scorecards for agent work sessions with negative controls and remote/live evidence checks.
 - [claude-desktop-supervisor](https://github.com/prasithg/claude-desktop-supervisor) — supervision pattern for long-running Claude Desktop, Claude Code, and Fable-style coding sessions.
-- [clawrari](https://github.com/prasithg/clawrari) — opinionated OpenClaw setup with structured memory and agent-ops loops.
-- [clawrari-context](https://github.com/prasithg/clawrari-context) — product/build context behind Clawrari.
+- [prasithg.com](https://prasithg.com/) — the current project index, build log, and field notes.
 
 ## What I'm working on
 
@@ -61,5 +62,6 @@ Repo: [prasithg/claude-desktop-supervisor](https://github.com/prasithg/claude-de
 
 ## Elsewhere
 
+- Personal site: [prasithg.com](https://prasithg.com/)
 - X: [@prasithg](https://x.com/prasithg)
 - Company: [JobLeap AI](https://jobleap.ai)
